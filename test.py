@@ -1,1 +1,4 @@
-# Hello from Dobulbek
+def Hello():
+    print('Hello from Dobulbek')
+
+Hello()
