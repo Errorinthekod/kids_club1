@@ -3,3 +3,4 @@
 
 # Comment
 print("I love Kyrgyzstan! ")
+a = 3
