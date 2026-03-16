@@ -1,6 +1,4 @@
-# Hello from Askhat!
-# Commit from Askhat!
+def hello():
+    print("Hello from Kids Club!")
 
-# Comment
-print("I love Kyrgyzstan! ")
-a = 3
+hello()
