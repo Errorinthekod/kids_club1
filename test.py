@@ -1,3 +1,5 @@
-# Hello from Ariet 
-# Comment 
-print("I love Kyrgyzstan")
+def hello():
+    print("Hello My name Ariet")
+
+hello()    
+
