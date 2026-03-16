@@ -1,4 +1,4 @@
-# hello from bayel
+def Hello():
+    print('hello from bayel')
 
-#hello
-print('i love A ')
+Hello()
